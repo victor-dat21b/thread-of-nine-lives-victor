@@ -40,6 +40,7 @@ namespace Domain.Entities
             return deck;
         }
 
+
         public static DeckDTO FromEntity(Deck deck)
         {
             return new DeckDTO
