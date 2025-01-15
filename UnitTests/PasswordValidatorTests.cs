@@ -20,7 +20,7 @@ namespace UnitTests
         public void IsValidPassword_ReturnsTrue_WhenLengthIsExactly8()
         {
             // Arrange
-            var password = "A1#aaaa"; //length is 8
+            var password = "A1#aaaaa"; //length is 8
 
             // Act
             bool result = PasswordValidator.IsValidPassword(password);
