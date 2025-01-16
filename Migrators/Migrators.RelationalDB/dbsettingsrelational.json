@@ -7,6 +7,6 @@
   },
   "AllowedHosts": "*",
   "ConnectionStrings": {
-    "DefaultConnection": "Server=relative_db,1433;Database=KeaRpg;User Id=sa;Password=yourStrong(!)Password;TrustServerCertificate=True;Persist Security Info=False;Encrypt=False"
+    "DefaultConnection": "Server=127.0.0.1,1433;Database=KeaRpg;User Id=sa;Password=yourStrong(!)Password;TrustServerCertificate=True;Persist Security Info=False;Encrypt=False"
   }
 }

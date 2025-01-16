@@ -11,6 +11,7 @@ using Xunit;
 
 namespace Backend.Tests
 {
+
     public class CombatServiceTests
     {
         private readonly Mock<ICombatRepository> _combatRepositoryMock;
